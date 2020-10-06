@@ -1,3 +1,3 @@
-# WitheredMod
+# Withered Mod
 
-Prueba
+*An example mod for learning minecraft modding
